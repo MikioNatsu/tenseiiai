@@ -1,0 +1,5 @@
+fastapi==0.115.5
+uvicorn==0.32.0
+requests==2.32.3
+chromadb==0.5.23
+pydantic==2.10.3
